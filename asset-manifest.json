@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Reactassignment1/static/css/main.58380119.chunk.css",
+    "main.js": "/Reactassignment1/static/js/main.9a478e4c.chunk.js",
+    "main.js.map": "/Reactassignment1/static/js/main.9a478e4c.chunk.js.map",
+    "runtime-main.js": "/Reactassignment1/static/js/runtime-main.ec661afe.js",
+    "runtime-main.js.map": "/Reactassignment1/static/js/runtime-main.ec661afe.js.map",
+    "static/js/2.db056cbc.chunk.js": "/Reactassignment1/static/js/2.db056cbc.chunk.js",
+    "static/js/2.db056cbc.chunk.js.map": "/Reactassignment1/static/js/2.db056cbc.chunk.js.map",
+    "static/js/3.7d8e67f9.chunk.js": "/Reactassignment1/static/js/3.7d8e67f9.chunk.js",
+    "static/js/3.7d8e67f9.chunk.js.map": "/Reactassignment1/static/js/3.7d8e67f9.chunk.js.map",
+    "index.html": "/Reactassignment1/index.html",
+    "static/css/main.58380119.chunk.css.map": "/Reactassignment1/static/css/main.58380119.chunk.css.map",
+    "static/js/2.db056cbc.chunk.js.LICENSE.txt": "/Reactassignment1/static/js/2.db056cbc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Reactassignment1/static/media/logo.6ce24c58.svg",
+    "static/media/shinchan.6f5dcebb.png": "/Reactassignment1/static/media/shinchan.6f5dcebb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec661afe.js",
+    "static/js/2.db056cbc.chunk.js",
+    "static/css/main.58380119.chunk.css",
+    "static/js/main.9a478e4c.chunk.js"
+  ]
+}
